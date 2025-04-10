@@ -21,6 +21,7 @@ LocalStorage for persistence
 ##Takify Website screenshots
 https://github.com/Jayanth-77/taskify/blob/c7d6b56eb5ee3c1e3b6e12e7695c17431b4795bc/2025-04-10%20(19).png
 https://github.com/Jayanth-77/taskify/blob/185a5df0c456270588d0f5643e95cb5548fd391c/Screenshot%202025-04-10%20233144.png
+https://github.com/Jayanth-77/taskify/blob/c3ccfcf7c8046510fb5bb7e2b1da1b49686a6d7c/2025-04-10%20(18).png
 ##💡 How to Use
 Enter your task in the input field.
 Select due date and time.
